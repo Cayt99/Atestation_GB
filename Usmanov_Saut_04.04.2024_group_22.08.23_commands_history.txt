@@ -1,0 +1,39 @@
+    1  li
+    2  wsl -u root
+    3  mkdir
+    4  dir
+    5  mkdir
+    6  mkdir --help
+    7  test
+    8  sudo apt
+    9  sudo
+   10  sudo -h
+   11  mkdir
+   12  clear
+   13  echo -e "Dog\nCat\nHamster" > Pets.txt
+   14  echo -e "Horse\nCamel\nDonkey" > PackAnimals.txt
+   15  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+   16  mv HumanFriends.txt HumansFriens.txt
+   17  ls
+   18  mkdir Newdirectory
+   19  mv HumansFriens.txt Newdirectory/
+   20  ls
+   21  clear
+   22  [200~
+   23  clear
+   24  [200~
+   25  clear
+   26  cat > Pets.txt
+   27  [200~
+   28  ~cat Pets.txt PackAnimals.txt > HumanFriends.txt
+   29  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+   30  cat > PackAnimals.txt
+   31  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+   32  mkdir Friends
+   33  mv HumanFriends.txt Friends/
+   34  sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+   35  sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+   36  sudo apt update
+   37  sudo apt install mysql-server
+   38  sudo dpkg -i package_name.deb
+   39  history > Usmanov_Saut_04.04.2024_group_22.08.23_commands_history
